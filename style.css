@@ -1,7 +1,7 @@
 @import 'reset.css';
 
 body {
-  background-color: #CDCDC2;
+  background: linear-gradient(#C6BFA4, #9B5D4E);
   font-family: 'Muli', sans-serif;
   font-size: 10px;
   margin: 0;
@@ -201,7 +201,7 @@ h1 {
 }
 
 footer {
-  height: 400px;
+  height: 800px;
 }
 
 @media (max-width: 575px) {
